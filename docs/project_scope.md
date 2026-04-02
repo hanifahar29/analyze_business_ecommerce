@@ -76,19 +76,19 @@ The findings from this analysis are expected to provide data-driven insights to 
 
 ## Project Milestone
 
-| Milestone | Description |
-|-----------|-------------|
-| ✅ Database Schema & ERD | Schema, constraints, and ERD completed |
-| ⬜ Project Scope | Define business questions and project plan |
-| ⬜ Data Cleaning | Validate and clean raw data |
-| ⬜ Customer Growth Analysis | SQL queries and findings |
-| ⬜ Product Quality Analysis | SQL queries and findings |
-| ⬜ Payment Type Analysis | SQL queries and findings |
-| ⬜ Final Documentation | README with summary and insights |
+| Milestone | Description | Status |
+|-----------|-------------|--------|
+| Project Scope | Define business questions and project plan | ✅ Done |
+| Database Schema & ERD | Schema, constraints, and ERD completed | ✅ Done |
+| Data Cleaning | Validate and clean raw data | ✅ Done |
+| Customer Growth Analysis | SQL queries and findings | ⬜ Pending |
+| Product Quality Analysis | SQL queries and findings | ⬜ Pending |
+| Payment Type Analysis | SQL queries and findings | ⬜ Pending |
+| Final Documentation | README with summary and insights | ⬜ Pending |
 
 ---
 
 ## Role
 
-- **Data Analyst:** (Your Name)
+- **Data Analyst:** Hanifah Arrasyidah
 - **Domain:** eCommerce / Marketplace (South America)
