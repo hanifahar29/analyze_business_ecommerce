@@ -83,7 +83,7 @@ The findings from this analysis are expected to provide data-driven insights to 
 | Data Cleaning | Validate and clean raw data | ✅ Done |
 | Customer Growth Analysis | SQL queries and findings | ✅ Done |
 | Product Quality Analysis | SQL queries and findings | ✅ Done |
-| Payment Type Analysis | SQL queries and findings | ⬜ Pending |
+| Payment Type Analysis | SQL queries and findings | ✅ Done |
 | Final Documentation | README with summary and insights | ⬜ Pending |
 
 ---
